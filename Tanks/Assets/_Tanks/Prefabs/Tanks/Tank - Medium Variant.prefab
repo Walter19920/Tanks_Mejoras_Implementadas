@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6183745788032016389
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2739045414385017630, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_Mass
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5787519088787228741, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5787519088787228741, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6098547388472960450, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_IsComputerControlled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6457383631874620547, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_ExplosionPrefab
+      value: 
+      objectReference: {fileID: 151086, guid: ba8990ebb85ea694bb7081fe3cad6c59, type: 3}
+    - target: {fileID: 6551430954575151996, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0021487763
+      objectReference: {fileID: 0}
+    - target: {fileID: 6551430954575151996, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6551430954575151996, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.8294988
+      objectReference: {fileID: 0}
+    - target: {fileID: 6551430954575151996, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.75677073
+      objectReference: {fileID: 0}
+    - target: {fileID: 6551430954575151996, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6551430954575151996, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.65368044
+      objectReference: {fileID: 0}
+    - target: {fileID: 6551430954575151996, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6551430954575151996, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6551430954575151996, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -81.639
+      objectReference: {fileID: 0}
+    - target: {fileID: 6551430954575151996, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7462097012693854510, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7462097012693854510, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8496347783958498607, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 9145447000985690525, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
+      propertyPath: m_Name
+      value: Tank - Medium Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e9050561b78b9942a63b8e1e9bf4ca7, type: 3}
